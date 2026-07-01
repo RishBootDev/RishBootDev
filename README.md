@@ -95,31 +95,33 @@ Open Source:
 
 ---
 
-## ⚙ Backend Development
+## Backend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate,nodejs&theme=dark"/>
+<!-- <img src="https://skillicons.dev/icons?i=java" height="55"/> -->
 
-<br>
+<img src="https://skillicons.dev/icons?i=spring" height="55"/>
 
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://miro.medium.com/1*GPC7P5TRNIxO8FiFsLslYA.jpeg" height="55"/>
 
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwFZrLIRMRXTOzLEJuMLUWqElaZPOghSBdRtyUEzXaw9rUqHzcocMnLu78&s=10" height="55"/>
 
-<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge"/>
+<img src="https://docs.spring.io/spring-ai/reference/_images/spring_ai_logo_with_text.svg" height="55"/>
 
-<img src="https://img.shields.io/badge/JakartaEE-E97627?style=for-the-badge"/>
+<img src="https://avatars.githubusercontent.com/u/8216893?s=200&v=4" height="55"/>
 
-<img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge"/>
+<img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" height="55"/>
 
-<img src="https://img.shields.io/badge/REST_API-green?style=for-the-badge"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Jakarta_ee_logo_schooner_color_stacked_reverse.svg/960px-Jakarta_ee_logo_schooner_color_stacked_reverse.svg.png" height="55"/>
 
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=hibernate" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=maven" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=gradle" height="55"/>
 
 </div>
-
----
 
 ##  Databases
 
