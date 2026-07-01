@@ -83,9 +83,9 @@ Open Source:
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
-## 💻 Languages
+##  Languages
 
 <div align="center">
 
@@ -127,18 +127,42 @@ Open Source:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark"/>
+<!-- MySQL -->
+<a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+</a>
 
-<br><br>
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" height="55"/>
+</a>
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+</a>
 
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<!-- Redis -->
+<a href="https://redis.io/">
+    <img src="https://skillicons.dev/icons?i=redis" height="55"/>
+</a>
 
-<img src="https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white"/>
+<!-- Oracle -->
+<a href="https://www.oracle.com/database/">
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" height="55"/>
+</a>
+
+<!-- Neo4j -->
+<a href="https://neo4j.com/">
+    <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" height="55"/>
+</a>
+
+<!-- CouchDB -->
+<a href="https://couchdb.apache.org/">
+    <img src="https://www.vectorlogo.zone/logos/apache_couchdb/apache_couchdb-icon.svg" height="55"/>
+</a>
 
 </div>
-
 ---
 
 ##  DevOps & Cloud
@@ -155,12 +179,15 @@ Open Source:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka"/>
+<a href="https://kafka.apache.org/">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="55"/>
+</a>
 
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq"/>
+<a href="https://www.rabbitmq.com/">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="55"/>
+</a>
 
 </div>
-
 ---
 
 ##  Frontend
@@ -172,33 +199,77 @@ Open Source:
 </div>
 
 ---
-
 ## 🛠 Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,maven,gradle,postman,docker,kubernetes,linux&theme=dark"/>
+<!-- IDEs -->
+<img src="https://skillicons.dev/icons?i=idea" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 
-<br><br>
+<!-- Version Control -->
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 
-<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+<!-- Build -->
+<img src="https://skillicons.dev/icons?i=maven" height="55"/>
+<img src="https://skillicons.dev/icons?i=gradle" height="55"/>
 
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<!-- API -->
+<img src="https://skillicons.dev/icons?i=postman" height="55"/>
+<img src="https://cdn.simpleicons.org/swagger" height="55"/>
+<img src="https://cdn.simpleicons.org/openapiinitiative" height="55"/>
 
-<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+<!-- Testing -->
+<img src="https://cdn.simpleicons.org/junit5" height="55"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_bZP0NBLkSMgtrj_NlGbSSZw9kSf8sCo-SyLA1VJn4w&s=10" height="55"/>
+<img src="https://cdn.simpleicons.org/testcontainers" height="55"/>
+<img src="https://cdn.simpleicons.org/apachejmeter" height="55"/>
 
-<img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<!-- CI/CD -->
+<img src="https://cdn.simpleicons.org/githubactions" height="55"/>
+<img src="https://cdn.simpleicons.org/jenkins" height="55"/>
 
-<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge"/>
+<!-- Containers -->
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="55"/>
 
-<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<!-- OS -->
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<!-- Monitoring -->
+<img src="https://egkatzioura.com/wp-content/uploads/2020/02/micrometer.png" height="55"/>
+<img src="https://avatars.githubusercontent.com/u/11860887?s=280&v=4" height="55"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGugw9NTItjErs3Lkq-AGDeKScEuc4CiNUNrsFBVXmZwIBEhXSCdcFKYzx&s=10" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/3840px-Prometheus_software_logo.svg.png" height="55"/>
+<img src="https://www.clipartmax.com/png/full/450-4503037_grafana-prometheus-grafana-logo.png" height="55"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLsW3Wx-EqFuE4G9p4fWtpOkKQaCs5KJqr80Qy6NiSnd4GL_pNy3LEyhs&s=10" height="55"/>
 
 </div>
 ---
+## ⛓️ Blockchain Development
+
+<div align="center">
+
+<a href="https://www.hyperledger.org/use/fabric">
+    <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" height="55"/>
+</a>
+
+<a href="https://hyperledger-fabric.readthedocs.io/">
+    <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-ar21.svg" height="55"/>
+</a>
+
+<a href="https://hyperledger-fabric-ca.readthedocs.io/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Hyperledger_Fabric.png" height="55"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<b>Hyperledger Fabric • Java Chaincode • Smart Contracts • Fabric Gateway • Fabric CA • MSP • Channels • Peers • Orderers • CouchDB State Database • Private Data Collections • Endorsement Policies • Certificate Authority</b>
+
+</div>
 
 #  Areas of Interest
 
