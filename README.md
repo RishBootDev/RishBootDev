@@ -1,26 +1,454 @@
-<h1 align="center">Hi 👋, I'm Rishabh Dubey</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishbootdev&label=Profile%20views&color=0e75b6&style=flat" alt="rishbootdev" /> </p>
+# Hi 👋 I'm Rishabh Dubey
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishbootdev" alt="rishbootdev" /></a> </p>
+###  Java Backend Engineer | Spring Boot | Microservices | AI Integration
 
-- 🔭 I’m currently working on **Java Backend Development** with SpringBoot and Microservices and exploring AIML
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+Developer;Building+Scalable+Backend+Systems;Kafka+%7C+Redis+%7C+Docker+%7C+PostgreSQL;Spring+AI+%7C+Distributed+Systems;Always+Learning+New+Technologies+🚀" />
 
-- 💬 Ask me about **Java, Jakarta EE, SpringBoot and Microservices**
+<img src="https://komarev.com/ghpvc/?username=rishbootdev&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-- 📫 How to reach me **rishabhdubey1472004@gmail.com**
+<a href="https://github.com/rishbootdev">
+<img src="https://img.shields.io/github/followers/rishbootdev?label=Followers&style=for-the-badge"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishabh-dubey-b42961289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishabh-dubey-b42961289" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/rishbootdev">
+<img src="https://img.shields.io/github/stars/rishbootdev?affiliations=OWNER&style=for-the-badge"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishbootdev&show_icons=true&locale=en&layout=compact" alt="rishbootdev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishbootdev&show_icons=true&locale=en" alt="rishbootdev" /></p>
+# 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishbootdev&" alt="rishbootdev" /></p>
+```yaml
+Name: Rishabh Dubey
+
+Education:
+  B.Tech Computer Science Engineering
+
+Role:
+  Java Backend Developer
+
+Specialization:
+  - Spring Boot
+  - Microservices
+  - Distributed Systems
+  - REST APIs
+  - AI Integration
+
+Current Focus:
+  - Spring AI
+  - Kubernetes
+  - AWS
+  - System Design
+
+Learning:
+  - Cloud Native Applications
+  - Event Driven Architecture
+  - High Performance APIs
+
+Open Source:
+  Always interested in collaborating.
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rishabh-dubey-b42961289/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rishabhdubey1472004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/kFwbP/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/vigil_apple_81">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/rishabhdubey1471">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript&theme=dark"/>
+
+</div>
+
+---
+
+## ⚙ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate,nodejs&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JakartaEE-E97627?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+</div>
+
+---
+
+##  Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white"/>
+
+</div>
+
+---
+
+##  DevOps & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github&theme=dark"/>
+
+</div>
+
+---
+
+##  Messaging & Event Streaming
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka"/>
+
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq"/>
+
+</div>
+
+---
+
+##  Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,ts&theme=dark"/>
+
+</div>
+
+---
+
+## 🛠 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,maven,gradle,postman,docker,kubernetes,linux&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+</div>
+---
+
+#  Areas of Interest
+
+- Backend Engineering
+
+- Spring Ecosystem
+
+- Microservices
+
+- Distributed Systems
+
+- Event Driven Architecture
+
+- RESTful APIs
+
+- Cloud Native Applications
+
+- AI Powered Applications
+
+- High Performance Systems
+
+- System Design
+
+---
+
+#  2026 Goals
+
+✅ Master Spring Ecosystem
+
+✅ Kubernetes
+
+✅ AWS
+
+✅ Distributed Systems
+
+✅ AI with Spring AI
+
+✅ Open Source Contributions
+
+✅ Production Scale Microservices
+
+---
+
+#  Competitive Programming
+
+<div align="center">
+
+| Platform | Profile |
+|:----------|:---------|
+|  LeetCode | https://lee |
+|  CodeChef | https://www.codechef.com/users/vigil_apple_81 |
+|  HackerRank | https://www.hackerrank.com/profile/rishabhdubey1471 |
+|  GitHub | https://github.com/rishbootdev |
+
+</div>
+
+---
+
+#  GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=rishbootdev&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)
+
+</div>
+
+---#  GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishbootdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishbootdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+#  GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rishbootdev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+#  Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishbootdev&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+#  Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishbootdev&theme=tokyonight"/>
+
+</div>
+
+---
+
+#  GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishbootdev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishbootdev&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishbootdev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishbootdev&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+#  Current Learning Roadmap
+
+```text
+✔ Advanced Spring Boot
+
+✔ Spring Security
+
+✔ OAuth2 & JWT
+
+✔ Kafka
+
+✔ Redis
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ AWS
+
+✔ Distributed Systems
+
+✔ System Design
+
+✔ Spring AI
+
+✔ AI Agents
+
+✔ Event Driven Architecture
+```
+
+---
+
+#  Developer Mindset
+
+```java
+public class Developer {
+
+    private final String name = "Rishabh Dubey";
+
+    private final String role = "Java Backend Engineer";
+
+    private final String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Kafka",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MongoDB",
+        "Spring AI"
+    };
+
+    public void code() {
+        while(true){
+            learn();
+            build();
+            improve();
+            repeat();
+        }
+    }
+}
+```
+
+# ☕ Fun Facts
+
+-  I enjoy designing backend architectures more than frontend UIs.
+
+-  I love building scalable backend systems.
+
+-  Always learning new technologies.
+
+-  Debugging feels like solving puzzles.
+
+-  Coffee and Java are my favorite productivity tools.
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- Java Backend Projects
+
+- Spring Boot Applications
+
+- REST API Development
+
+- Microservices
+
+- AI Integration
+
+- Open Source Projects
+
+Feel free to connect with me!
+
+---
+
+#  Contact
+
+<div align="center">
+
+### 📧 rishabhdubey1472004@gmail.com
+
+### 💼 LinkedIn
+https://www.linkedin.com/in/rishabh-dubey-b42961289/
+
+###  GitHub
+https://github.com/rishbootdev
+
+###  LeetCode
+https:/
+
+</div>
+
+---
+
+#  Thanks for Visiting
+
+<div align="center">
+
+###  If you like my work, consider following me and starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
