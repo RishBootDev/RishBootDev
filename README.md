@@ -247,29 +247,30 @@ Open Source:
 
 </div>
 ---
-## ⛓️ Blockchain Development
+
+##  Blockchain Development
 
 <div align="center">
 
-<a href="https://www.hyperledger.org/use/fabric">
-    <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" height="55"/>
+<a href="https://www.lfdecentralizedtrust.org/projects/fabric">
+    <img src="https://hyperledger-fabric.readthedocs.io/en/release-1.1/_images/hyperledger_fabric_logo_color.png" height="60"/>
 </a>
 
-<a href="https://hyperledger-fabric.readthedocs.io/">
-    <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-ar21.svg" height="55"/>
-</a>
-
-<a href="https://hyperledger-fabric-ca.readthedocs.io/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Hyperledger_Fabric.png" height="55"/>
+<a href="https://www.hyperledger.org/">
+    <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/hyperledger/icon.svg" height="60"/>
 </a>
 
 </div>
 
 <div align="center">
 
-<b>Hyperledger Fabric • Java Chaincode • Smart Contracts • Fabric Gateway • Fabric CA • MSP • Channels • Peers • Orderers • CouchDB State Database • Private Data Collections • Endorsement Policies • Certificate Authority</b>
+<b>
 
+Hyperledger Fabric • Java Chaincode • Smart Contracts • Fabric Gateway • Fabric CA • MSP • Channels • Peers • Orderers • CouchDB • Private Data Collections • Endorsement Policies
+
+</b>
 </div>
+---
 
 #  Areas of Interest
 
